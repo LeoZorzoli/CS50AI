@@ -10,9 +10,6 @@ In this problem, we’re interested in finding the shortest path between any two
 
 We can frame this as a search problem: our states are people. Our actions are movies, which take us from one actor to another (it’s true that a movie could take us to multiple different actors, but that’s okay for this problem). Our initial state and goal state are defined by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.
 
-### Scope
-Descripción..
-
 #### Supported use-cases
 * The system must be able to return the shortest path between two actors if their names are found in the database.
 
@@ -22,7 +19,7 @@ Descripción..
 
 
 ### Diagram
-![alt-text](https://github.com/LeoZorzoli/CS50-AI-2021/tree/main/degrees/diagram.png)
+![alt-text](https://github.com/LeoZorzoli/CS50-AI-2021/blob/main/degrees/diagram.png)
 
 ### Json model
 ```json
