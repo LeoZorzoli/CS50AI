@@ -17,11 +17,12 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
   <a href="https://www.edx.org/bio/brian-yu">Instructor: https://www.edx.org/es/bio/brian-yu </a>
 </div>
 
+
 ### List of my Projects
 
 | Week | Topic            | Name                       | Description                                                        | How to Run                                                            |
 | :--- | :--------------- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- |
-| 0    | Search           | [Degrees](degrees)         | Determines how many “degrees of separation” apart two actors are      | `$ python degrees.py large`                                           |
+| 0    | Search           | [Degrees](degrees)         | Determines how many “degrees of separation” apart two actors are      | `$ python degrees.py small`                                           |
 | 0    | Search           | [Tic-Tac-Toe](tictactoe)   | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | `$ python runner.py`                                                  |
 | 1    | Knowledge        | [Knights](knights)         | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
 
