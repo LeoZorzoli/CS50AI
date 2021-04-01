@@ -18,11 +18,6 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 </div>
 
 ### List of my Projects
-<ul>
-  <li>:clipboard: Degrees <a href="https://github.com/LeoZorzoli/CS50AI/tree/main/degrees">Github</a></li>
-  <li>:computer: TicTacToe <a href="https://github.com/LeoZorzoli/CS50AI/tree/main/tictactoe">Github</a></li>
-  <li>:guardsman: Knights <a href="https://github.com/LeoZorzoli/CS50AI/tree/main/knights">Github</a></li>
-</ul>
 
 | Week | Topic            | Name                       | Description                                                        | How to Run                                                            |
 | :--- | :--------------- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- |
