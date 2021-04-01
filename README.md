@@ -23,3 +23,10 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
   <li>:computer: TicTacToe <a href="https://github.com/LeoZorzoli/CS50AI/tree/main/tictactoe">Github</a></li>
   <li>:guardsman: Knights <a href="https://github.com/LeoZorzoli/CS50AI/tree/main/knights">Github</a></li>
 </ul>
+
+| Week | Topic            | Name                       | Description                                                        | How to Run                                                            |
+| :--- | :--------------- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| 0    | Search           | [Degrees](degrees)         | Determines how many “degrees of separation” apart two actors are      | `$ python degrees.py large`                                           |
+| 0    | Search           | [Tic-Tac-Toe](tictactoe)   | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | `$ python runner.py`                                                  |
+| 1    | Knowledge        | [Knights](knights)         | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
+
