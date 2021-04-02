@@ -12,4 +12,6 @@ take to bring to the highest value?’” This is a recursive process, and it co
 values for each state that could result from all the possible actions at the current state. After having these values, the maximizing player chooses the highest one.
 
 ### Diagram
-![alt-text](https://github.com/LeoZorzoli/CS50-AI-2021/blob/main/tictactoe/minimax.png)
+<div align="center">
+  ![alt-text](https://github.com/LeoZorzoli/CS50-AI-2021/blob/main/tictactoe/minimax.png)
+</div>
