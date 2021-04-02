@@ -25,5 +25,5 @@ CS50’s Introduction to Artificial Intelligence with Python explores the concep
 | 0    | Search           | [Degrees](degrees)         | Determines how many “degrees of separation” apart two actors are      | `$ python degrees.py small`                                           |
 | 0    | Search           | [Tic-Tac-Toe](tictactoe)   | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | `$ python runner.py`                                                  |
 | 1    | Knowledge        | [Knights](knights)         | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
-| 1    | Minesweeper      | [Minesweeper](minesweeper) | Write an AI to play Minesweeper.                                   | `$ python puzzle.py`                                                  |
+| 1    | Minesweeper      | [Minesweeper](minesweeper) | Write an AI to play Minesweeper.                                   | `$ python runner.py`                                                  |
 
